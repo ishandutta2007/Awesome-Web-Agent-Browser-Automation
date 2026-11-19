@@ -53,11 +53,6 @@
   </defs>
 
   <style>
-    @keyframes orbitFloat {
-      0% { transform: translateY(0px) rotate(0deg); }
-      50% { transform: translateY(-12px) rotate(1.5deg); }
-      100% { transform: translateY(0px) rotate(0deg); }
-    }
     @keyframes pulseBeam {
       0%, 100% { opacity: 0.25; stroke-dashoffset: 0; }
       50% { opacity: 0.75; stroke-dashoffset: -50; }
@@ -69,10 +64,6 @@
     @keyframes floatPill2 {
       0%, 100% { transform: translateY(0px); }
       50% { transform: translateY(8px); }
-    }
-    @keyframes flowLine {
-      0% { stroke-dashoffset: 200; }
-      100% { stroke-dashoffset: 0; }
     }
     @keyframes scanline {
       0% { transform: translateY(-20px); opacity: 0; }
@@ -148,7 +139,7 @@
     <!-- Bottom Right Pill -->
     <rect x="955" y="310" width="175" height="34" rx="17" fill="url(#badgeGrad)" stroke="#34d399" stroke-width="1.2" filter="url(#glow)"/>
     <circle cx="972" cy="327" r="5" fill="#34d399"/>
-    <text x="985" y="332" fill="#e2e8f0" class="badge-text">🛡️ Anti-Detect & Stealth</text>
+    <text x="985" y="332" fill="#e2e8f0" class="badge-text">🛡️ Anti-Detect &amp; Stealth</text>
   </g>
 
   <!-- Center Decorative Glow Halo behind title -->
