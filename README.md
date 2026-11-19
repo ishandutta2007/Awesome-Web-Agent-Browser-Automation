@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-Agent-Browser-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Agent-Browser-Automation?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Agent-Browser-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Agent-Browser-Automation?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Agent-Browser-Automation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Agent-Browser-Automation?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Agent-Browser-Automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,99 +64,99 @@ The following hosted platforms provide managed browser clouds, anti-bot bypass p
 
 ## 💻 Open-Source GitHub Projects 🛠️
 
-The following open-source frameworks, libraries, and Model Context Protocol (MCP) servers power AI web agents, DOM analysis, and automated browser manipulation. *Sorted in descending order by GitHub Stars ⭐.*
+The following open-source frameworks, libraries, and Model Context Protocol (MCP) servers power AI web agents, DOM analysis, and automated browser manipulation. *Sorted in descending order by GitHub_Stars ⭐.*
 
-- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
+- **[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social&color=white)](https://github.com/firecrawl/firecrawl/stargazers)  
   Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** [![GitHub_Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social&color=white)](https://github.com/browser-use/browser-use/stargazers)  
   Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 
-- **[microsoft/playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+- **[microsoft/playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
   Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
-- **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
+- **[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)** [![GitHub_Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers)  
   JavaScript API for Chrome and Firefox
 
-- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
+- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** [![GitHub_Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
   Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.
 
-- **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** [![GitHub stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social&color=white)](https://github.com/ChromeDevTools/chrome-devtools-mcp/stargazers)  
+- **[ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=social&color=white)](https://github.com/ChromeDevTools/chrome-devtools-mcp/stargazers)  
   Chrome DevTools for coding agents
 
-- **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social&color=white)](https://github.com/microsoft/playwright-mcp/stargazers)  
+- **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=social&color=white)](https://github.com/microsoft/playwright-mcp/stargazers)  
   Playwright MCP server
 
-- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** [![GitHub stars](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop?style=social&color=white)](https://github.com/bytedance/UI-TARS-desktop/stargazers)  
+- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** [![GitHub_Stars](https://img.shields.io/github/stars/bytedance/UI-TARS-desktop?style=social&color=white)](https://github.com/bytedance/UI-TARS-desktop/stargazers)  
   The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 
-- **[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)** [![GitHub stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=social&color=white)](https://github.com/dgtlmoon/changedetection.io/stargazers)  
+- **[dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)** [![GitHub_Stars](https://img.shields.io/github/stars/dgtlmoon/changedetection.io?style=social&color=white)](https://github.com/dgtlmoon/changedetection.io/stargazers)  
   Website change detection, web page monitoring, and alerting with Playwright and MCP integration
 
-- **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** [![GitHub stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)  
+- **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** [![GitHub_Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers)  
   A browser automation framework and ecosystem.
 
-- **[trycua/cua](https://github.com/trycua/cua)** [![GitHub stars](https://img.shields.io/github/stars/trycua/cua?style=social&color=white)](https://github.com/trycua/cua/stargazers)  
+- **[trycua/cua](https://github.com/trycua/cua)** [![GitHub_Stars](https://img.shields.io/github/stars/trycua/cua?style=social&color=white)](https://github.com/trycua/cua/stargazers)  
   Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 
-- **[alibaba/page-agent](https://github.com/alibaba/page-agent)** [![GitHub stars](https://img.shields.io/github/stars/alibaba/page-agent?style=social&color=white)](https://github.com/alibaba/page-agent/stargazers)  
+- **[alibaba/page-agent](https://github.com/alibaba/page-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/alibaba/page-agent?style=social&color=white)](https://github.com/alibaba/page-agent/stargazers)  
   JavaScript in-page GUI agent. Control web interfaces with natural language.
 
-- **[apify/crawlee](https://github.com/apify/crawlee)** [![GitHub stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
+- **[apify/crawlee](https://github.com/apify/crawlee)** [![GitHub_Stars](https://img.shields.io/github/stars/apify/crawlee?style=social&color=white)](https://github.com/apify/crawlee/stargazers)  
   Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.
 
-- **[browserbase/stagehand](https://github.com/browserbase/stagehand)** [![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social&color=white)](https://github.com/browserbase/stagehand/stargazers)  
+- **[browserbase/stagehand](https://github.com/browserbase/stagehand)** [![GitHub_Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social&color=white)](https://github.com/browserbase/stagehand/stargazers)  
   The SDK to extract data and interact with any site on the web. Get started with Claude Code, Codex, Eve, Mastra, and more.
 
-- **[microsoft/OmniParser](https://github.com/microsoft/OmniParser)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social&color=white)](https://github.com/microsoft/OmniParser/stargazers)  
+- **[microsoft/OmniParser](https://github.com/microsoft/OmniParser)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social&color=white)](https://github.com/microsoft/OmniParser/stargazers)  
   A simple screen parsing tool towards pure vision based GUI agent
 
-- **[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)** [![GitHub stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social&color=white)](https://github.com/Skyvern-AI/skyvern/stargazers)  
+- **[Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)** [![GitHub_Stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social&color=white)](https://github.com/Skyvern-AI/skyvern/stargazers)  
   Automate browser based workflows with AI
 
-- **[web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)** [![GitHub stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=social&color=white)](https://github.com/web-infra-dev/midscene/stargazers)  
+- **[web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)** [![GitHub_Stars](https://img.shields.io/github/stars/web-infra-dev/midscene?style=social&color=white)](https://github.com/web-infra-dev/midscene/stargazers)  
   See interfaces like a human. E2E testing in natural language.
 
-- **[nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)** [![GitHub stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social&color=white)](https://github.com/nanobrowser/nanobrowser/stargazers)  
+- **[nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)** [![GitHub_Stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social&color=white)](https://github.com/nanobrowser/nanobrowser/stargazers)  
   Open-source AI agent for web automation. Use your real, logged-in browser to automate daily tasks.
 
-- **[browserless/browserless](https://github.com/browserless/browserless)** [![GitHub stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers)  
+- **[browserless/browserless](https://github.com/browserless/browserless)** [![GitHub_Stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers)  
   Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 
-- **[daijro/camoufox](https://github.com/daijro/camoufox)** [![GitHub stars](https://img.shields.io/github/stars/daijro/camoufox?style=social&color=white)](https://github.com/daijro/camoufox/stargazers)  
+- **[daijro/camoufox](https://github.com/daijro/camoufox)** [![GitHub_Stars](https://img.shields.io/github/stars/daijro/camoufox?style=social&color=white)](https://github.com/daijro/camoufox/stargazers)  
   🦊 Anti-detect browser
 
-- **[steel-dev/steel-browser](https://github.com/steel-dev/steel-browser)** [![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social&color=white)](https://github.com/steel-dev/steel-browser/stargazers)  
+- **[steel-dev/steel-browser](https://github.com/steel-dev/steel-browser)** [![GitHub_Stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social&color=white)](https://github.com/steel-dev/steel-browser/stargazers)  
   🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 
-- **[magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)** [![GitHub stars](https://img.shields.io/github/stars/magnitudedev/magnitude?style=social&color=white)](https://github.com/magnitudedev/magnitude/stargazers)  
+- **[magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)** [![GitHub_Stars](https://img.shields.io/github/stars/magnitudedev/magnitude?style=social&color=white)](https://github.com/magnitudedev/magnitude/stargazers)  
   Open source inference engine that tunes its kernels on your hardware to find the fastest way to run each model. 2x faster than Ollama. Works on Apple Silicon, NVIDIA, AMD, Intel, or just a CPU.
 
-- **[lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)** [![GitHub stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social&color=white)](https://github.com/lavague-ai/LaVague/stargazers)  
+- **[lavague-ai/LaVague](https://github.com/lavague-ai/LaVague)** [![GitHub_Stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social&color=white)](https://github.com/lavague-ai/LaVague/stargazers)  
   Large Action Model framework to develop AI Web Agents
 
-- **[Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)** [![GitHub stars](https://img.shields.io/github/stars/Kaliiiiiiiiii-Vinyzu/patchright?style=social&color=white)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright/stargazers)  
+- **[Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)** [![GitHub_Stars](https://img.shields.io/github/stars/Kaliiiiiiiiii-Vinyzu/patchright?style=social&color=white)](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright/stargazers)  
   Undetected version of the Playwright testing and automation library.
 
-- **[ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)** [![GitHub stars](https://img.shields.io/github/stars/ultrafunkamsterdam/nodriver?style=social&color=white)](https://github.com/ultrafunkamsterdam/nodriver/stargazers)  
+- **[ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)** [![GitHub_Stars](https://img.shields.io/github/stars/ultrafunkamsterdam/nodriver?style=social&color=white)](https://github.com/ultrafunkamsterdam/nodriver/stargazers)  
   Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscraping, bots and any other creative ideas which are normally hindered by annoying anti bot systems like Captcha / CloudFlare / Imperva / hCaptcha
 
-- **[xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld)** [![GitHub stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social&color=white)](https://github.com/xlang-ai/OSWorld/stargazers)  
+- **[xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld)** [![GitHub_Stars](https://img.shields.io/github/stars/xlang-ai/OSWorld?style=social&color=white)](https://github.com/xlang-ai/OSWorld/stargazers)  
   [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 
-- **[showlab/computer_use_ootb](https://github.com/showlab/computer_use_ootb)** [![GitHub stars](https://img.shields.io/github/stars/showlab/computer_use_ootb?style=social&color=white)](https://github.com/showlab/computer_use_ootb/stargazers)  
+- **[showlab/computer_use_ootb](https://github.com/showlab/computer_use_ootb)** [![GitHub_Stars](https://img.shields.io/github/stars/showlab/computer_use_ootb?style=social&color=white)](https://github.com/showlab/computer_use_ootb/stargazers)  
   Out-of-the-box (OOTB) GUI Agent for Windows and macOS
 
-- **[ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym)** [![GitHub stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social&color=white)](https://github.com/ServiceNow/BrowserGym/stargazers)  
+- **[ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym)** [![GitHub_Stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social&color=white)](https://github.com/ServiceNow/BrowserGym/stargazers)  
   BrowserGym, a Gym environment for web task automation
 
-- **[EmergenceAI/Agent-E](https://github.com/EmergenceAI/Agent-E)** [![GitHub stars](https://img.shields.io/github/stars/EmergenceAI/Agent-E?style=social&color=white)](https://github.com/EmergenceAI/Agent-E/stargazers)  
+- **[EmergenceAI/Agent-E](https://github.com/EmergenceAI/Agent-E)** [![GitHub_Stars](https://img.shields.io/github/stars/EmergenceAI/Agent-E?style=social&color=white)](https://github.com/EmergenceAI/Agent-E/stargazers)  
   Agent driven automation starting with the web. Try it: https://www.emergence.ai/web-automation-api
 
-- **[OSU-NLP-Group/SeeAct](https://github.com/OSU-NLP-Group/SeeAct)** [![GitHub stars](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social&color=white)](https://github.com/OSU-NLP-Group/SeeAct/stargazers)  
+- **[OSU-NLP-Group/SeeAct](https://github.com/OSU-NLP-Group/SeeAct)** [![GitHub_Stars](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social&color=white)](https://github.com/OSU-NLP-Group/SeeAct/stargazers)  
   [ICML'24] SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).
 
-- **[alibaba/qz-browser-agent](https://github.com/alibaba/qz-browser-agent)** [![GitHub stars](https://img.shields.io/github/stars/alibaba/qz-browser-agent?style=social&color=white)](https://github.com/alibaba/qz-browser-agent/stargazers)  
+- **[alibaba/qz-browser-agent](https://github.com/alibaba/qz-browser-agent)** [![GitHub_Stars](https://img.shields.io/github/stars/alibaba/qz-browser-agent?style=social&color=white)](https://github.com/alibaba/qz-browser-agent/stargazers)  
   Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model.
 ---
 
